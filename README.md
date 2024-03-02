@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Faraz Hayder!
-🔭 I’m currently working on CRM<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Software Engineering from FAST Nuces<br>
+🔭 I’m currently working on CRM<br>👯 I’m looking to collaborate on Projects<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FarazHayder) 
