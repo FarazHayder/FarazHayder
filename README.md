@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Faraz Hayder!
-🔭 I’m currently working on CRM<br>👯 I’m looking to collaborate on Projects<br>
+🔭 I’m currently working with multiple businesses to streamline their operations by building custom, purpose-driven software solutions.<br>👯 Let's connect — reach out at contact@farazhayder.me to explore how I can help your business grow.<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FarazHayder) 
